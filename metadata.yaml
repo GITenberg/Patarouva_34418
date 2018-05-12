@@ -18,6 +18,8 @@ creator:
     - http://en.wikipedia.org/wiki/Aleksandr_Pushkin
     - http://www.museum.ru/Pushkin/
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34418#Patarouva
 gutenberg_issued: '2010-11-23'
 gutenberg_type: Text
 identifiers:
